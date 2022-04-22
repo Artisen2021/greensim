@@ -1,0 +1,7 @@
+<Resultat 
+              :PuisPV_an="PuissancePV_an" :PuisPV_mois="PuissancePV_mois" :Pv="PV"
+              :PuisEOL_an="PuissanceEol_an" :PuisEOL_mois="PuissanceEol_mois" :Eol="EOL"
+              :PuisHYDRO_an="PuissanceHydro_an" :Hydro="HYDRO"
+            />
+
+<p>lalala{{(RayonPale===0) || (NbHydro===0) || (courant===0)}}</p>
